@@ -21,3 +21,6 @@ https://opencv.org/about/
 
 langkah - langkah untuk menginstall opencv dapat dilihat pada link berikut:
 https://onedrive.live.com/view.aspx?resid=2AAE05B692B45603!149547&ithint=file%2cpptx&authkey=!AMJoTWk2pvH73f8
+
+Video demo aplikasi:
+https://www.youtube.com/watch?v=YruOGBSZ4RA
